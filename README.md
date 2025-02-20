@@ -1,2 +1,2 @@
 # P0
-proyecto de coputo en la nube 
+Mi primer proyecto de cómputo en la nube 
